@@ -1,0 +1,8 @@
+.progress{position:absolute;top:20px;left:20px;}
+.clock{position:absolute;top:20px;right:20px;}
+.anagram{text-align:center;margin-top:200px;}
+.progressContainer{width:400px;height:30px;border:1px solid black;}
+.progressBar{width:0%;height:100%;background-color:green;text-align:center;color:white;}
+body{text-align:center;font-family:Arial,sans-serif;}
+button{padding:10px 20px;font-size:16px;}
+#result{margin-top:20px;font-size:18px;}
